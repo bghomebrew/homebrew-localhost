@@ -4,7 +4,7 @@
 class Wget < Formula
   desc ""
   homepage ""
-  url "https://github.com/bghomebrew/homebrew-localhost/tree/main/package/wget-1.21.4.tar.gz"
+  url "https://raw.githubusercontent.com/bghomebrew/homebrew-localhost/main/package/wget-1.21.4.tar.gz"
   sha256 "e8b0c45474dcf4a60120bf744eec462961b845f594c2a83610c90c8b32f35ecf"
   license ""
 
