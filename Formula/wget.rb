@@ -5,7 +5,7 @@ class Wget < Formula
   desc ""
   homepage ""
   url "https://raw.githubusercontent.com/bghomebrew/homebrew-localhost/main/package/wget-1.21.4.tar.gz"
-  sha256 "e8b0c45474dcf4a60120bf744eec462961b845f594c2a83610c90c8b32f35ecf"
+  sha256 "81542f5cefb8faacc39bbbc6c82ded80e3e4a88505ae72ea51df27525bcde04c"
   license ""
 
   # depends_on "cmake" => :build
